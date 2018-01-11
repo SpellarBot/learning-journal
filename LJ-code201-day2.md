@@ -1,0 +1,3 @@
+# Journal 1 1/10/2018
+
+Yesterday I spent most of my labtime trying to figure out how to use a while loop in my code for my first lab. I stared at the screen trying to figure out what I needed to do, but i realized i spent too long on the project, hyper-focused on one problem. While driving back home, I was talking to myself and explaining what i needed my code to do in normal talk, which definitely helped my figure out the problem. I learned that I needed to not spend more than 15 minutes on a single problem 
